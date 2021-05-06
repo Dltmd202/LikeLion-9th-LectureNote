@@ -52,7 +52,9 @@ __👨🏽‍💻6 주차 HTML & CSS__
 >
 > __[[선택자](./6th/selecter.md)]__
 >
-> __[[선택자](./6th/valueAndUnit.md)]__
+> __[[값과 단위](./6th/valueAndUnit.md)]__
 >
-> __[[선택자](./6th/TextReProp.md)]__
+> __[[텍스트와 관련된 프로퍼티](./6th/TextReProp.md)]__
+>
+> __[[박스 모델](./6th/boxModel.md)]__
 
