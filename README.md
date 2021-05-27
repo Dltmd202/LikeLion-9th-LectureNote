@@ -66,3 +66,13 @@ __👨🏽‍💻6 주차 HTML & CSS__
 >
 > __[[Bootstrap](./6th/bootstrap.md)]__
 
+__👨🏽‍💻9 주차 Django Setting__
+
+> __[[MacOS 환경설정](./9th/mac_setting.md)]__
+>
+> __[[Terminal 사용법1](./9th/terminal1.md)]__
+>
+> __[[Terminal 사용법2](./9th/terminal2.md)]__
+>
+> __[[Django 시작하기](./9th/stDj.md)]__
+
