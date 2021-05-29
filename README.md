@@ -1,18 +1,12 @@
 # 👩🏽‍🏫CodeLion
 
-***
-
 🙏🏻종강을 기다리는 중
 
 📖2021.03.27~
 
 # 👰🏻‍♀️멋쟁이 사자처럼 9기👰🏾‍♂️
 
-***
-
-__👨🏽‍💻1 주차 웹 기초__
-
-***
+##### __👨🏽‍💻1 주차 웹 기초__
 
 ​	__[[Web & Webservice](./1st/web&service.md)]__
 
@@ -30,15 +24,13 @@ __👨🏽‍💻1 주차 웹 기초__
 
 
 
-__👨🏽‍💻[2 주차 블로그 만들기](https://dltmd202.github.io/)__
+##### __👨🏽‍💻[2 주차 블로그 만들기](https://dltmd202.github.io/)__
 
 
 
 
 
-__👨🏽‍💻3 주차 HTML & CSS__
-
-***
+##### __👨🏽‍💻3 주차 HTML & CSS__
 
 ​	__[[Html 기초](./3rd/basic_html.md)]__
 
@@ -54,9 +46,7 @@ __👨🏽‍💻3 주차 HTML & CSS__
 
 
 
-__👨🏽‍💻6 주차 HTML & CSS__
-
-***
+##### __👨🏽‍💻6 주차 HTML & CSS__
 
 ​	__[[CSS](./6th/CSS.md)]__
 
@@ -78,9 +68,7 @@ __👨🏽‍💻6 주차 HTML & CSS__
 
 
 
-__👨🏽‍💻9 주차 Django Setting__
-
-***
+##### __👨🏽‍💻9 주차 Django Setting__
 
 ​	__[[MacOS 환경설정](./9th/mac_setting.md)]__
 
@@ -92,8 +80,10 @@ __👨🏽‍💻9 주차 Django Setting__
 
 
 
-__👨🏽‍💻10 주차 Django__
-
-***
+##### __👨🏽‍💻10 주차 Django__
 
 ​	__[[MTV패턴](./10th/MTV.md)]__
+
+​	__[[Django 실습[1]](./10th/django1.md)]__
+
+​	__[[Django 실습[2]](./10th/django2.md)]__
