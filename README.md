@@ -91,3 +91,6 @@
 ​	__[[Django 실습[2]](./10th/django2.md)]__
 
 ​	__[[Django와 데이터베이스](./10th/dj_and_db.md)]__
+
+​	__[[Model 실습](./10th/Model.md)]__
+
