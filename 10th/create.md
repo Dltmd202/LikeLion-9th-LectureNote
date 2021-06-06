@@ -52,9 +52,10 @@ from blog.views import *
 urlpatterns = [
   path('admin/', name='home'),
   path('<str:id>', detail, name='detail'),
-  path('new/', new, name='new')
+  path('new/', new, name='new'),
+  path('create/', create. name='create')
 ]
-path('create/', create. name='create')
+
 ```
 
 
