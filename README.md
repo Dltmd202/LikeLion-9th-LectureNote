@@ -95,3 +95,6 @@
 ​	__[[Model 실습](./10th/Model.md)]__
 
 ​	__[[CRUD - read](./10th/read.md)]__
+
+​	__[[CRUD - read](./10th/create.md)]__
+
