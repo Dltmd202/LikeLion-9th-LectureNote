@@ -100,3 +100,4 @@
 
 ​	__[[CRUD - update](./10th/update.md)]__
 
+​	__[[CRUD - delete](./10th/delete.md)]__
