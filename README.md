@@ -96,5 +96,7 @@
 
 ​	__[[CRUD - read](./10th/read.md)]__
 
-​	__[[CRUD - read](./10th/create.md)]__
+​	__[[CRUD - create](./10th/create.md)]__
+
+​	__[[CRUD - update](./10th/update.md)]__
 
