@@ -110,3 +110,5 @@ __👨🏽‍💻11 주차 Django__
 ​	__[[Template 상속](./13th/Tem_heritage.md)]__
 
 ​	__[[Static](./13th/static.md)]__
+
+​	__[[Media](./13th/Media.md)]__
