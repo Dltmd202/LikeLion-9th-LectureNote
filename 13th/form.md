@@ -110,30 +110,6 @@ def delete(request, id):
 
 
 
-
-
-new.html
-
-```html
-{% extends 'base.html' %}
-
-{% block content %}
-<h1>
-  Write your Blog
-</h1>
-<form action="{% url 'create' %}" method="post" enctype="multipart/from-data">
-  <!--- csrf 공격이 아님을 서버에 알림 --->
-  {% csrf_token %}
-  {{ form.as_p }}
-  <button type="submit">
-    submit
-  </button>
-</form>
-{% endblock %}
-```
-
-
-
 views.py
 
 ```python
@@ -196,25 +172,4 @@ def delete(request, id):
 
 
 
-
-
-detail.html
-
-```html
-{% extends 'base.html' %}
-	{% block content %}
-    <h1>{{ blog.title }}</h1>
-    <div>
-      {{ blog.writer }}
-      {{ blog.pub_date }}
-    </div>
-      <hr>
-			<p>
-        <!----- image의 경로를 호출해야 함 ----->
-      	<img src="{% blog.image.url %}" alt="">  
-			</p>
-      <p>{{ blog.body}}</p>
-    <a href="{%  url 'edit' %}">수정하기</a>
-	{% block content %}
-```
 
