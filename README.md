@@ -112,3 +112,6 @@ __👨🏽‍💻11 주차 Django__
 ​	__[[Static](./13th/static.md)]__
 
 ​	__[[Media](./13th/Media.md)]__
+
+​	__[[Form](./13th/form.md)]__
+
