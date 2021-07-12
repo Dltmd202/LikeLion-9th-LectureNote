@@ -123,6 +123,8 @@ __👨🏽‍💻11 주차 Django__
 
 ​	__[[Pagination](./13th/pagination.md)]__
 
+
+
 __👨🏽‍💻14 주차 Django__
 
 ​	__[[배포 사전준비](./14th/dist_prep.md)]__
@@ -134,3 +136,8 @@ __👨🏽‍💻14 주차 Django__
 ​	__[[Docker란?](./14th/docker.md)]__
 
 ​	__[[Docker 이미지 생성](./14th/docker_dist.md)]__
+
+​	__[[Docker 서버에 배포하기](./14th/docker_server.md)]__
+
+​	__[[Docker 이미지 자동생성(Github Actions)](./14th/docker_atimg.md)]__
+
